@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ashishghumnar.github.io/csb-dj52n/static/css/main.83d60c80.chunk.css",
+    "main.js": "https://ashishghumnar.github.io/csb-dj52n/static/js/main.ef2e7381.chunk.js",
+    "main.js.map": "https://ashishghumnar.github.io/csb-dj52n/static/js/main.ef2e7381.chunk.js.map",
+    "runtime-main.js": "https://ashishghumnar.github.io/csb-dj52n/static/js/runtime-main.c1c7d4c1.js",
+    "runtime-main.js.map": "https://ashishghumnar.github.io/csb-dj52n/static/js/runtime-main.c1c7d4c1.js.map",
+    "static/js/2.b73601d1.chunk.js": "https://ashishghumnar.github.io/csb-dj52n/static/js/2.b73601d1.chunk.js",
+    "static/js/2.b73601d1.chunk.js.map": "https://ashishghumnar.github.io/csb-dj52n/static/js/2.b73601d1.chunk.js.map",
+    "index.html": "https://ashishghumnar.github.io/csb-dj52n/index.html",
+    "static/css/main.83d60c80.chunk.css.map": "https://ashishghumnar.github.io/csb-dj52n/static/css/main.83d60c80.chunk.css.map",
+    "static/js/2.b73601d1.chunk.js.LICENSE.txt": "https://ashishghumnar.github.io/csb-dj52n/static/js/2.b73601d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1c7d4c1.js",
+    "static/js/2.b73601d1.chunk.js",
+    "static/css/main.83d60c80.chunk.css",
+    "static/js/main.ef2e7381.chunk.js"
+  ]
+}
